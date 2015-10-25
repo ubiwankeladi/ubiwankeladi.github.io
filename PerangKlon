@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Perang Angkasa</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+			<ul>
+				<li><a href="/">Utama</a></li>
+				<li><a href="/cerita">Cerita</a></li>
+			</ul>
+		</nav>
+		<div class="container">
+			<ul>
+				<li><a href="/PerangKlonM1">Perang Angkasa Klon Musim 1</a></li>
+				<li><a href="/PerangKlonM2">Perang Angkasa Klon Musim 2</a></li>
+				<li><a href="/PerangKlonM3">Perang Angkasa Klon Musim 3</a></li>
+				<li><a href="/PerangKlonM4">Perang Angkasa Klon Musim 4</a></li>
+				<li><a href="/PerangKlonM5">Perang Angkasa Klon Musim 5</a></li>
+				<li><a href="/PerangKlonM6">Perang Angkasa Klon Musim 6</a></li>
+			</ul>
+		</div><!-- /.container -->
+		<footer>
+			<ul>
+				<li></li>
+				<li></li>
+			</ul>
+		</footer>
+	</body>
+</html>
