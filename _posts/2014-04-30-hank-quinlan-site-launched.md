@@ -1,7 +1,13 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Perang Angkasa - Serangan Balas Empayar"
+date: 2015-01-05
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+			<object type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" wmode="opaque" 
+			data="https://video.google.com/get_player?docid=0B_OcFwh_3-Z7Yk1PMXB3ejYzNGs&amp;ps=docs&amp;partnerid=30&amp;cc_load_policy=1&amp;usp=embed_googleplus" 
+			width="1280px" height="750px" id="vpl0" style="margin:0 auto; width: 550px; height: 400px;">
+				<param name="allowFullScreen" value="true">
+				<param name="allowscriptaccess" value="always">
+				<param name="wmode" value="opaque">
+			</object>
