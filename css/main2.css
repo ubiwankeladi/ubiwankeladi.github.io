@@ -9,7 +9,7 @@ body {
 	overflow: hidden; 
 	max-width: 100%;
 }
-.embed-container embed { 
+.embed-container iframe { 
 	position: absolute; 
 	top: 0;
 	left: 0; 
