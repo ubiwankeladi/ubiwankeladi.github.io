@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Senarai Musim Perang Angkasa Klon</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+			<ul>
+				<li><a href="/">Utama</a></li>
+				<li><a href="/cerita">Cerita</a></li>
+			</ul>
+		</nav>
+		<h2>Senarai Musim Perang Angkasa Klon</h2>
+		<div class="container">
+			<ul>
+				<li><a href="https://drive.google.com/file/d/0BwBjN9VsjGb2d3pjem5ZSEpuNHM/preview?partnerid=30&version=3&allowfullscreen=0&fs=0&hl=en&cc_load_policy=1&autoplay=1&showinfo=0" allowfullscreen="false" fs="0" frameborder="0" target="_blank">Orang Besi 1</a></li>
+				<li><a href="https://drive.google.com/file/d/0BwBjN9VsjGb2UUNQMVZSU0RXWlU/preview?partnerid=30&version=3&allowfullscreen=0&fs=0&hl=en&cc_load_policy=1&autoplay=1&showinfo=0" allowfullscreen="false" fs="0" frameborder="0" target="_blank">Orang Besi 2</a></li>
+				<li><a href="https://drive.google.com/file/d/0BwBjN9VsjGb2cUw2QndwSlRoREk/preview?partnerid=30&version=3&allowfullscreen=0&fs=0&hl=en&cc_load_policy=1&autoplay=1&showinfo=0" allowfullscreen="false" fs="0" frameborder="0" target="_blank">Orang Besi 3</a></li>
+			</ul>
+		</div><!-- /.container -->
+		<footer>
+			<ul>
+				<li></li>
+				<li></li>
+			</ul>
+		</footer>
+	</body>
+</html>
