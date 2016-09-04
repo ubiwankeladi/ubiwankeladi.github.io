@@ -1,7 +1,10 @@
-#block1, #block2
+#block1, #block2, body
+{
+	background: #000;
+}
+#block1, #block2,
 {
 	margin: 0;
-	background: #000;
 	position: absolute;
 	right: 0;
 	z-index: 99999;
