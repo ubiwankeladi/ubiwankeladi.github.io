@@ -25,13 +25,10 @@
 				bottom: 0;
 			}
 	</style>
-	<script LANGUAGE="javascript">
-		function click() {
-			if (event.button==2) {
-				alert('Sorry, this function is disabled.')
-			}
-		}
-		document.onMouseDown=click
+	<script language="javascript">
+		document.oncontextmenu = function() { 
+			return false; 
+		};
 	</script>
 	<body>
 		<ul id=block1></ul>
